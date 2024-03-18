@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.titulo{
+    background-color: aqua;
+    max-width: 80%;
+    margin: 0 auto;
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+    font-family: 'trebuchet MS';
+    border-radius: .3rem;
+}
